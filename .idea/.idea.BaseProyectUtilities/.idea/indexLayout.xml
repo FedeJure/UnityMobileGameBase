@@ -3,6 +3,7 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
+      <Path>Library/PackageCache/com.unity.addressables@1.18.19</Path>
       <Path>Library/PackageCache/com.unity.collab-proxy@1.11.2</Path>
       <Path>Library/PackageCache/com.unity.ext.nunit@1.0.6</Path>
       <Path>Library/PackageCache/com.unity.ide.rider@2.0.7</Path>
@@ -13,19 +14,11 @@
       <Path>Library/PackageCache/com.unity.modules.animation@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.assetbundle@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.audio@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.cloth@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.director@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.imageconversion@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.imgui@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.jsonserialize@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.particlesystem@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.physics2d@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.physics@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.screencapture@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.subsystems@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.terrain@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.terrainphysics@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.tilemap@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.ui@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.uielements@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.uielementsnative@1.0.0</Path>
@@ -36,12 +29,8 @@
       <Path>Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.vehicles@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.video@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.vr@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.wind@1.0.0</Path>
-      <Path>Library/PackageCache/com.unity.modules.xr@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2</Path>
+      <Path>Library/PackageCache/com.unity.scriptablebuildpipeline@1.19.2</Path>
       <Path>Library/PackageCache/com.unity.services.authentication@2.4.0</Path>
       <Path>Library/PackageCache/com.unity.services.cloudsave@2.0.1</Path>
       <Path>Library/PackageCache/com.unity.services.core@1.7.0</Path>
