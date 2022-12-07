@@ -9,7 +9,6 @@
       <e p="Assets" t="Include">
         <e p="ExternalDependencyManager" t="Include">
           <e p="Editor" t="Include">
-            <e p="external-dependency-manager_version-1.2.167_manifest.txt" t="Include" />
             <e p="external-dependency-manager_version-1.2.174_manifest.txt" t="Include" />
           </e>
         </e>

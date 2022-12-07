@@ -1,0 +1,9 @@
+﻿{
+  "name": "com.mobile.baseproject",
+  "version": "1.0",
+  "displayName": "Mobile Base Project",
+  "author": {
+    "name": "Federico Jure",
+    "email": "fedejure@gmail.com"
+  }
+}
